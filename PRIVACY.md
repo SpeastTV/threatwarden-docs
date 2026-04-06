@@ -1,6 +1,6 @@
 # Privacy Notice
 
-**Last updated:** April 6, 2026
+**Last updated:** April 7, 2026
 
 ## 1. Data Controller
 
